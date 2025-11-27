@@ -26,8 +26,8 @@ Un tablero de control (Dashboard) de escritorio diseñado para mesas de dinero. 
 
 1.  **Clonar el repositorio:**
     ```bash
-    git clone [https://github.com/tu-usuario/alynk-monitor.git](https://github.com/tu-usuario/alynk-monitor.git)
-    cd alynk-monitor
+    git clone https://github.com/Julian-Rando/Monitor-Alynk.git
+    cd Monitor-Alynk
     ```
 
 2.  **Instalar dependencias:**
